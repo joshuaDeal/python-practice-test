@@ -1,0 +1,5 @@
+0|"What is the largest planet in our solar system?"|"Earth","Mars","Jupiter","Saturn"|2|"Jupiter is the largest planet in our solar system."
+1|"Which of the following are programming languages?"|"Python","HTML","JavaScript","CSS","SQL"|0,2,4|"Python, JavaScript, and SQL are considered programming languages. HTML and CSS are markup and styling languages, respectively."
+2|"In which year did the Titanic sink?"|"1912","1905","1918","1920"|0|"The Titanic sank on April 15, 1912."
+3|"Which of these countries are in the European Union?"|"Germany","India","France","Brazil"|0,2|"Germany and France are part of the European Union."
+4|"What are the colors of the American flag?"|"Red","White","Blue","Green"|0,1,2|"The American flag consists of red, white, and blue."
